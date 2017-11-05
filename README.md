@@ -13,7 +13,11 @@
     Debian Based => `apt-get install qemu`
 
 ### C. Instalasi XV-6
-Lihat dan coba tutorial, tutorial [Klik Disini](https://www.youtube.com/watch?v=ktkAlbcoz7o)
+Lihat dan coba tutorial, tutorial [Klik disini](https://www.youtube.com/watch?v=ktkAlbcoz7o)
 
 ### D. Contoh membuat perintah sederhana
-Lihat dan coba tutorial membuat perintah cp (copy) sederhana, tutorial 
+Lihat dan coba tutorial membuat perintah cp (copy) sederhana, tutorial [Klik disini](https://www.youtube.com/watch?v=ny56yjshACY)
+
+
+### E. Teknis FP
+1. 
