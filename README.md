@@ -50,7 +50,7 @@ Lihat dan coba tutorial membuat perintah cp (copy) sederhana, tutorial [Klik dis
 1. Template Proposal FP (Comming Soon)
 
 ### J. Quote
-1. Bantulah teman anda, jangan seperti parasit!
+1. Bantulah teman anda untuk menyelesaikan FP, jangan seperti parasit!
 
 
 
