@@ -49,7 +49,7 @@ Lihat dan coba tutorial membuat perintah cp (copy) sederhana, tutorial [Klik dis
 ### I. Lampiran
 1. Template Proposal FP (Comming Soon)
 
-### J. Quote
+### J. Kata-kata bijak
 1. Bantulah teman anda untuk menyelesaikan FP, jangan cuma nimbrung nama saja.
 
 
