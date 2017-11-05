@@ -35,7 +35,8 @@ Lihat dan coba tutorial membuat perintah cp (copy) sederhana, tutorial [Klik dis
 5. Pengerjaan FP diwajibkan dengan menggunakan git. Pengumpulan link git (Coming Soon)
 
 ### G. Peraturan Tambahan
-1. Tidak diperkenankan tanya, copas ke kelompok lain. Apabila nekat, selamat nilai FP anda **0**. 
+1. Tidak diperkenankan tanya, copas ke kelompok lain.
+2. Apabila anda nekat melanggar peraturan, selamat nilai FP anda **0**. 
 
 ### H. Command Wajib
 1. cp : cp, cp *, cp -R
