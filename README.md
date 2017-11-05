@@ -50,7 +50,7 @@ Lihat dan coba tutorial membuat perintah cp (copy) sederhana, tutorial [Klik dis
 1. Template Proposal FP (Comming Soon)
 
 ### J. Kata-kata bijak
-1. Bantulah teman anda untuk menyelesaikan FP, jangan cuma nimbrung nama saja.
+1. Bantulah teman anda untuk menyelesaikan FP, jangan cuma nimbrung nama dan nrp saja.
 2. Malu bertanya sesat dijalan. Ketika anda bingung, silahkan baca manual atau googling terlebih dahulu sebelum tanya ke asisten.
 
 
