@@ -34,7 +34,10 @@ Lihat dan coba tutorial membuat perintah cp (copy) sederhana, tutorial [Klik dis
 4. Kelompok FP merupakan hasil penggabungan kelompok 2 praktikum yang akan dirandom oleh asisten. List Kelompok (Comming Soon)
 5. Pengerjaan FP diwajibkan dengan menggunakan git. Pengumpulan link git (Coming Soon)
 
-### G. Command Wajib
+### G. Peraturan Tambahan
+1. Tidak diperkenankan tanya ke kelompok lain. Apabila nekat, selamat nilai FP anda **0**. 
+
+### H. Command Wajib
 1. cp : cp, cp *, cp -R
 2. mv : mv, mv *
 3. ls
@@ -42,7 +45,7 @@ Lihat dan coba tutorial membuat perintah cp (copy) sederhana, tutorial [Klik dis
 5. cd
 6. rm
 
-### H. Lampiran
+### I. Lampiran
 1. Template Proposal FP (Comming Soon)
 
 
