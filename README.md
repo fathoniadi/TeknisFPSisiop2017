@@ -1,6 +1,6 @@
 # Teknis Final Project Sisop 2017
 
-Revisi Terakhir : 6 November 2017 06:00 WIB
+Revisi Teknis Terakhir : 6 November 2017 06:00 WIB
 
 ### A. Requirement
 1. Linux
