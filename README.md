@@ -39,3 +39,6 @@ Lihat dan coba tutorial membuat perintah cp (copy) sederhana, tutorial [Klik dis
 5. cd
 6. rm
 
+### H. Lampiran
+1. Template Proposal FP (Comming Soon)
+
