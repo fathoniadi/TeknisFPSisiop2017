@@ -22,7 +22,7 @@ Lihat dan coba tutorial, tutorial [Klik disini](https://www.youtube.com/watch?v=
 Lihat dan coba tutorial membuat perintah cp (copy) sederhana, tutorial [Klik disini](https://www.youtube.com/watch?v=ny56yjshACY)
 
 ### E. Alur FP
-1. Praktikan memilih 3 command tambahan selain command wajib dengan cara mengisi google spreadsheet dan **command tambahan tidak boleh sama dalam satu kelas**. Google spreadsheet (Coming Soon)
+1. Praktikan memilih 3 command tambahan selain command wajib dengan cara mengisi google spreadsheet dan **command tambahan tidak boleh sama dalam satu kelas**. Google spreadsheet [Klik Disini](https://docs.google.com/spreadsheets/d/1GlJD_l0Z_YBsoPyzIXhuazMVJQ5xSCNAf6b5t9vKfuo/edit?usp=sharing)
 2. Praktikan membuat proposal FP dengan mencantumkan command tambahan.
 3. Proposal dikumpulkan dengan mengirim ke email asisten pembimbing kelompok paling lambat **Jumat, 10 November 2017 pukul 20:59 WIB**
 4. Apabila proposal **disetujui** oleh asisten pembimbing maka praktikan bisa langsung mengerjakan FP. Apabila **tidak disetujui**, maka praktikan harus membuat revisi proposal dan dikirimkan kembali ke asisten pembimbing maksimal **Senin, 13 November 2017 pukul 20:59 WIB**
