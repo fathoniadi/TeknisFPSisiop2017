@@ -47,7 +47,7 @@ Lihat dan coba tutorial membuat perintah cp (copy) sederhana, tutorial [Klik dis
 6. rm
 
 ### I. Lampiran
-1. Template Proposal FP (Comming Soon)
+1. Template Proposal FP [Klik Disini](https://drive.google.com/open?id=0BzdVEYDk1QBGeHhUX2xKR0RaelU)
 
 ### J. Kata-kata bijak
 1. Bantulah teman anda untuk menyelesaikan FP, jangan cuma nimbrung nama dan nrp saja.
