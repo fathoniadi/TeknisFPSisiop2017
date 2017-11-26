@@ -32,7 +32,9 @@ Lihat dan coba tutorial membuat perintah cp (copy) sederhana, tutorial [Klik dis
 2. Pengerjaan mulai **minggu ke-12 sampai minggu ke-14**.
 3. Demo FP pada **minggu ke-15**.
 4. Kelompok FP merupakan hasil penggabungan kelompok 2 praktikum yang akan dirandom oleh asisten. List Kelompok (Comming Soon)
-5. Pengerjaan FP diwajibkan dengan menggunakan git. Pengumpulan link git (Coming Soon)
+5. Pengerjaan FP diwajibkan dengan menggunakan git. Pengumpulan link git [Klik Disini](https://drive.google.com/open?id=1GlJD_l0Z_YBsoPyzIXhuazMVJQ5xSCNAf6b5t9vKfuo)
+6. Semua command wajib, wajib dibuat ulang meskipun xv6 sudah ada (Teknis Baru)
+7. Apabila membutuhkan library stdio.h, stdlib bisa menggunakan xv6 versi porting [Klik Disini] (https://drive.google.com/open?id=1jHqsU3v-UiATH3LxPGiXyy7srYgjCHV-) (Teknis Baru)
 
 ### G. Peraturan Tambahan
 1. Tidak diperkenankan tanya, copas ke kelompok lain.
