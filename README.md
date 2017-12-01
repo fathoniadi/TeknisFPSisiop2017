@@ -1,6 +1,6 @@
 # Teknis Final Project Sisop 2017
 
-Revisi Teknis Terakhir : 26 November 2017 06:00 WIB
+Revisi Teknis Terakhir : 1 Desember 2017 06:00 WIB
 
 ### A. Requirement
 1. Linux
@@ -29,8 +29,8 @@ Lihat dan coba tutorial membuat perintah cp (copy) sederhana, tutorial [Klik dis
 
 ### F. Teknis FP
 1. Praktikan mengerjakan command wajib dan 3 command tambahan untuk melengkapi command pada OS XV-6.
-2. Pengerjaan mulai **minggu ke-12 sampai minggu ke-14**.
-3. Demo FP pada **minggu ke-15**.
+2. Pengerjaan mulai **minggu ke-12 sampai minggu ke-15**.
+3. Demo FP pada tanggal 8 Desember - 12 Desember 2017 dengan jadwal demo menyusul (teknis baru).
 4. Kelompok FP merupakan hasil penggabungan kelompok 2 praktikum yang akan dirandom oleh asisten. List Kelompok (Comming Soon)
 5. Pengerjaan FP diwajibkan dengan menggunakan git. Pengumpulan link git [Klik Disini](https://drive.google.com/open?id=1GlJD_l0Z_YBsoPyzIXhuazMVJQ5xSCNAf6b5t9vKfuo)
 6. Semua command wajib, wajib dibuat ulang meskipun xv6 sudah ada (Teknis Baru)
